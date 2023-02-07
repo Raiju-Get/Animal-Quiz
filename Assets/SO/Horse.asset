@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Horse
   m_EditorClassIdentifier: 
   answer: Horse
-  image: {fileID: 0}
+  image: {fileID: 21300000, guid: 38d6facaa4387c249ad326ba5a37d88d, type: 3}
   audioClip: {fileID: 0}

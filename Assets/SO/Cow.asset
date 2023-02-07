@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Cow
   m_EditorClassIdentifier: 
   answer: Cow
-  image: {fileID: 0}
+  image: {fileID: 21300000, guid: ec8cab1e733d49245b28f3489848bfc7, type: 3}
   audioClip: {fileID: 0}

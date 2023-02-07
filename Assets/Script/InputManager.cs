@@ -8,18 +8,35 @@ public class InputManager : MonoBehaviour
 {
    [SerializeField] private string correctAnswer;
    [SerializeField] private QuizManager quizManager;
-   public void checkAnswer(TextMeshProUGUI answer)
+   [SerializeField] private GameManager gameManager;
+
+    private void Start()
+    {
+    }
+
+    public void checkAnswer(TextMeshProUGUI answer)
    {
+      gameManager.NumOfQuestion--;
       if (answer.text == correctAnswer)
       {
          Debug.Log(correctAnswer);
+         if (gameManager.NumOfQuestion <=0)
+         {
+            return;
+         }
          quizManager.SetQuestion();
       }
       else
       {
-         Debug.Log("Wrong!!");
+         if (gameManager.NumOfQuestion <=0)
+         {
+            return;
+         }
          quizManager.SetQuestion();
       }
+    
+
+      
    }
 
    public void GetAnswer(string tempAnswer)
