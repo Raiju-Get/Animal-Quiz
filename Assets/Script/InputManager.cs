@@ -9,10 +9,10 @@ public class InputManager : MonoBehaviour
    [SerializeField] private string correctAnswer;
    [SerializeField] private QuizManager quizManager;
    [SerializeField] private GameManager gameManager;
+   [SerializeField] private AudioClip correctAnswerClip;
+   [SerializeField] private AudioClip incorrectAnswerClip;
+   [SerializeField] private AudioPlayer audioPlayer;
 
-    private void Start()
-    {
-    }
 
     public void checkAnswer(TextMeshProUGUI answer)
    {
@@ -25,6 +25,7 @@ public class InputManager : MonoBehaviour
             return;
          }
          quizManager.SetQuestion();
+         audioPlayer.Play(correctAnswerClip);
       }
       else
       {

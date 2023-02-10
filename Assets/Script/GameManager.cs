@@ -45,7 +45,12 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        numberOfQuestion = _quizManager.NumberoFQuestion();
+        StartGame();
+    }
+
+    public void StartGame()
+    {
+        numberOfQuestion = _quizManager.NumberOfQuestion();
         ChangeState(_playState);
     }
 

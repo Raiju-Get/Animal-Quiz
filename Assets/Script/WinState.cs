@@ -19,11 +19,11 @@ public class WinState : GameStateMachine
 
     public override void TransistionState(GameManager gameManager)
     {
-        throw new System.NotImplementedException();
+        
     }
 
     public override void EndState(GameManager gameManager)
     {
-        throw new System.NotImplementedException();
+       
     }
 }

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dff7aa5370c33b9499b44bd049fba168, type: 3}
+  m_Name: panda
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 51410967b340b71438aac5cdfc1b32ec, type: 3}
+  answer: panda
+  audioClip: {fileID: 8300000, guid: acb54a67ded4beb4ebe3a2418c4d017f, type: 3}

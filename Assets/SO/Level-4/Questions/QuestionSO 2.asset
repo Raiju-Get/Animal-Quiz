@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b26213210facd0b448ee49e13b53fbd0, type: 3}
+  m_Name: QuestionSO 2
+  m_EditorClassIdentifier: 
+  answerArray:
+  - {fileID: 11400000, guid: c20701f6898dd80419919ce24de7fb86, type: 2}
+  - {fileID: 11400000, guid: d921ed20d5b03534bb9d958d28c43750, type: 2}
+  - {fileID: 11400000, guid: b78e0613e568ef24b92491b2e64f583c, type: 2}
+  - {fileID: 11400000, guid: 8ab83b0696aa1094e90138f89bd167c2, type: 2}
+  question: Which animal is this?
+  correctIndex: 0
