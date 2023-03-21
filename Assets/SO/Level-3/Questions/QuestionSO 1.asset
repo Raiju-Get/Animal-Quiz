@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: d019d9ba6ec837747beecdc448c2dbfd, type: 2}
   - {fileID: 11400000, guid: 672e4af5d44bca94997e218e2cfbbe94, type: 2}
   - {fileID: 11400000, guid: 1f152722ce7cfc14f98451fc223b52d3, type: 2}
-  question: Which animal is this?
+  question: Most commonly kept as pets.
+  questionClip: {fileID: 8300000, guid: acada0ee40d544044b1bb336da9cf65e, type: 3}
   correctIndex: 0

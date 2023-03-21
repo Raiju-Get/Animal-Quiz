@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 03ec2d14f5796854cad13c8e8dda6503, type: 3}
   answer: Tiger
-  audioClip: {fileID: 8300000, guid: b2d35bc69cfe03e40abfee963edf6fc3, type: 3}
+  audioClip: {fileID: 8300000, guid: 007e6e299d4096b449f8370e00474180, type: 3}

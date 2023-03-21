@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 672e4af5d44bca94997e218e2cfbbe94, type: 2}
   - {fileID: 11400000, guid: 1f152722ce7cfc14f98451fc223b52d3, type: 2}
   - {fileID: 11400000, guid: c59c046a0b0229d478265344d86de05b, type: 2}
-  question: Which animal is this?
+  question: One of the fastest birds.
+  questionClip: {fileID: 8300000, guid: 67c188987015aaf46927c6429df21341, type: 3}
   correctIndex: 0

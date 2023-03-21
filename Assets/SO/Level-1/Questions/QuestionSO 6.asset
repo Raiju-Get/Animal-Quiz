@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 292f88f5a9cc2be4b81c032319c2d1ed, type: 2}
   - {fileID: 11400000, guid: 1d1c6789a3db29345a0bcf293acdcd3b, type: 2}
   - {fileID: 11400000, guid: 2e8e568a8fef07547bd5fa6b56d7b8f1, type: 2}
-  question: Which animal is this?
+  question: This animal shares the DNA of humans.
+  questionClip: {fileID: 8300000, guid: dcef328cda29d0a4083599e9828f61a9, type: 3}
   correctIndex: 0

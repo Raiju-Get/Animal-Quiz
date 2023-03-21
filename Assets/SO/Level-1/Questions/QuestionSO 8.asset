@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 2e8e568a8fef07547bd5fa6b56d7b8f1, type: 2}
   - {fileID: 11400000, guid: 387eb52f3a80aa442b795b499c324008, type: 2}
   - {fileID: 11400000, guid: 809e4e07af0b4824291b96b8313c4022, type: 2}
-  question: Which animal is this?
+  question: They were alive when dinosaurs existed.
+  questionClip: {fileID: 8300000, guid: 81ebef6bf8f616b46a304c2afd97fbb6, type: 3}
   correctIndex: 0

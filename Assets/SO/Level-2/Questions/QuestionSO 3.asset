@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c577b5c3664ea8a4ca58e17404b59e2c, type: 2}
   - {fileID: 11400000, guid: d8701b5e1ccd60a4f8e8697e3d034602, type: 2}
   - {fileID: 11400000, guid: 223d96415d33b754ba6ecf4f1167bfaf, type: 2}
-  question: Which animal is this?
+  question: Man's best friend.
+  questionClip: {fileID: 8300000, guid: 9de51de3e2e6ee54f80178d00d4ced6e, type: 3}
   correctIndex: 0

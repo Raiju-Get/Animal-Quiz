@@ -8,7 +8,15 @@ public class WinState : GameStateMachine
     {
         if (gameManager!= null)
         {
-           gameManager.UIWinner.SetActive(true);
+            if (gameManager.QuizManager.LevelCounter < gameManager.QuizManager.LevelList.Count)
+            {
+                gameManager.NextLevelPanel.SetActive(true);
+            }
+            else
+            {
+                gameManager.WinnerPanel.SetActive(true);
+            }
+          
         }
     }
 

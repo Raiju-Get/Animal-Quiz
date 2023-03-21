@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1f152722ce7cfc14f98451fc223b52d3, type: 2}
   - {fileID: 11400000, guid: c59c046a0b0229d478265344d86de05b, type: 2}
   - {fileID: 11400000, guid: 5135c2f0235dfd843bc69ff1c87511e3, type: 2}
-  question: Which animal is this?
+  question: The spiny mammal
+  questionClip: {fileID: 8300000, guid: 3e19f4440d3ff87449537ab6cda5672c, type: 3}
   correctIndex: 0

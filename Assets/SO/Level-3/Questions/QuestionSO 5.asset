@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 5135c2f0235dfd843bc69ff1c87511e3, type: 2}
   - {fileID: 11400000, guid: 978be9e67c6c09641839010a4bd0a071, type: 2}
   - {fileID: 11400000, guid: 6eb65dc171c653f42baba14c5dea96f0, type: 2}
-  question: Which animal is this?
+  question: 'This animal is fast. '
+  questionClip: {fileID: 8300000, guid: 62d2e2949563e8547b05964c886c3263, type: 3}
   correctIndex: 0

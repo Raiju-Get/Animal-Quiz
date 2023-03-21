@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Tortise
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 0a1992f2770b0c74ba40364cd2b884a8, type: 3}
-  answer: Tortise
-  audioClip: {fileID: 8300000, guid: 6e4f35f06afedfd48bbaddc79af929ab, type: 3}
+  answer: Tortoise
+  audioClip: {fileID: 8300000, guid: 04fee433720beb642812f10315dbadfb, type: 3}

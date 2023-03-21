@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 010c255ba6e97e842be4762988a37eb1, type: 3}
   answer: Pigeon
-  audioClip: {fileID: 8300000, guid: fa6738481bf19ca409d7809d89915f7a, type: 3}
+  audioClip: {fileID: 8300000, guid: 0c51320f567e9844c900613dcabce5a1, type: 3}

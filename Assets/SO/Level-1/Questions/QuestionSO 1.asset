@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: fa7a733a271f3ce4ca9e696cace7223f, type: 2}
   - {fileID: 11400000, guid: dfb51063722d5d349b600a6006a0376c, type: 2}
   - {fileID: 11400000, guid: ef0e9f0819d5a5540a8ab47ce25d8851, type: 2}
-  question: Which animal is this?
+  question: Name this animal species of South America.
+  questionClip: {fileID: 8300000, guid: 89409e1b13710fc4d87ec25d0aec03f6, type: 3}
   correctIndex: 0

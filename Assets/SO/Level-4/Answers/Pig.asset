@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: ec30d8e665e03f647a9b79221028f619, type: 3}
   answer: Pig
-  audioClip: {fileID: 8300000, guid: 06bfef326b7c88140b3a94074a77245c, type: 3}
+  audioClip: {fileID: 8300000, guid: 57d380f9e5e8c9e4cbe9a39b25148411, type: 3}

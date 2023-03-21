@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a0c11177df69d374d989885fff7a1f63, type: 2}
   - {fileID: 11400000, guid: c577b5c3664ea8a4ca58e17404b59e2c, type: 2}
   - {fileID: 11400000, guid: d8701b5e1ccd60a4f8e8697e3d034602, type: 2}
-  question: Which animal is this?
+  question: Name this poultry.
+  questionClip: {fileID: 8300000, guid: cfad990b2defb8343beeb80e7aedd702, type: 3}
   correctIndex: 0

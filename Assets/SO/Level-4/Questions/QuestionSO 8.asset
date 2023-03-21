@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f216b94526c11d449b1e714eed7e523e, type: 2}
   - {fileID: 11400000, guid: b5afa6feb3d564d4dabdc2a527e4c70f, type: 2}
   - {fileID: 11400000, guid: 84c339ca7bbca514790da56fe58a2ecd, type: 2}
-  question: Which animal is this?
+  question: These tough animals are known for its horns
+  questionClip: {fileID: 8300000, guid: 6f935f3638be6a04398706b7c888eef8, type: 3}
   correctIndex: 0

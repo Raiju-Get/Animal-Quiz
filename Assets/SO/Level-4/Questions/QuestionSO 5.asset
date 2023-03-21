@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 48d6ceca8e18b7c4d94149f658edaa9f, type: 2}
   - {fileID: 11400000, guid: 8e3276311fff0cf4f96cf95b49f62ff2, type: 2}
   - {fileID: 11400000, guid: e9773d782487f0743a5989a7986212bd, type: 2}
-  question: Which animal is this?
+  question: One of the happiest-looking animals.
+  questionClip: {fileID: 8300000, guid: 6e5494a41c6244d42b6b5e20d3b9dcca, type: 3}
   correctIndex: 0

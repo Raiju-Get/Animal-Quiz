@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 1a19118b1c96c314b88c16ecbccddb80, type: 3}
   answer: Quokko
-  audioClip: {fileID: 8300000, guid: 06343e404d12e9146b698c027101d6c5, type: 3}
+  audioClip: {fileID: 8300000, guid: a5af179adea8f624688b8786c1493fe1, type: 3}

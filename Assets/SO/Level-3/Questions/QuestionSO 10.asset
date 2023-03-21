@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 59d5431947f16c14abe7a0ba7e7cecca, type: 2}
   - {fileID: 11400000, guid: d019d9ba6ec837747beecdc448c2dbfd, type: 2}
   - {fileID: 11400000, guid: 672e4af5d44bca94997e218e2cfbbe94, type: 2}
-  question: Which animal is this?
+  question: One of many small to medium size species of parrots.
+  questionClip: {fileID: 8300000, guid: aae54c9cb2f406a4ca7b4cb9d3aa22fa, type: 3}
   correctIndex: 0

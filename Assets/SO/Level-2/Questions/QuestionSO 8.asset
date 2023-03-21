@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: b2fd056f8a7414645a6e43c3e4fec490, type: 2}
   - {fileID: 11400000, guid: 6173c420dd792ad4388d4dbd0b904476, type: 2}
   - {fileID: 11400000, guid: 22fa2fd4ede9650418522260876ab3f4, type: 2}
-  question: Which animal is this?
+  question: This animal has the longest neck.
+  questionClip: {fileID: 8300000, guid: 97c7d9c418c02bd49a807d6f6387f274, type: 3}
   correctIndex: 0

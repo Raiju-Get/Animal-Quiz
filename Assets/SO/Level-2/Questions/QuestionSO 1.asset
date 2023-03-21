@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 3916f238958fe3a42a2f630806ceb643, type: 2}
   - {fileID: 11400000, guid: a0c11177df69d374d989885fff7a1f63, type: 2}
   - {fileID: 11400000, guid: c577b5c3664ea8a4ca58e17404b59e2c, type: 2}
-  question: Which animal is this?
+  question: The fastest mammal.
+  questionClip: {fileID: 8300000, guid: b155319ce26986142b9390264143f608, type: 3}
   correctIndex: 0

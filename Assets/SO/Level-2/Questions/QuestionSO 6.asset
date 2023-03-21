@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 22db9ff581d710d408e2f000e8ed6086, type: 2}
   - {fileID: 11400000, guid: 11e2911115564a14ab2b7ecd5e9d2ba1, type: 2}
   - {fileID: 11400000, guid: b2fd056f8a7414645a6e43c3e4fec490, type: 2}
-  question: Which animal is this?
+  question: Largest land mammal.
+  questionClip: {fileID: 8300000, guid: 1602ba41a5a7b8f4898eb49103259c5c, type: 3}
   correctIndex: 0

@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: fa3231cfc3ff14c4fbc79b1a82fbf09d, type: 3}
   answer: Zebra
-  audioClip: {fileID: 8300000, guid: b672167ddc7d48a4e858b0fc8ee8d58e, type: 3}
+  audioClip: {fileID: 8300000, guid: 6586b7e2b24d4e64a99c3b0a99e6bfcc, type: 3}

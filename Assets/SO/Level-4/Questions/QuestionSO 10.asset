@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 84c339ca7bbca514790da56fe58a2ecd, type: 2}
   - {fileID: 11400000, guid: d921ed20d5b03534bb9d958d28c43750, type: 2}
   - {fileID: 11400000, guid: b78e0613e568ef24b92491b2e64f583c, type: 2}
-  question: Which animal is this?
+  question: One of the slowest animals.
+  questionClip: {fileID: 8300000, guid: 6d93740055bd3ed4080d04a31ec9041f, type: 3}
   correctIndex: 0

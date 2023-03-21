@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 0681e7ce2b22c4149b45131c4202f70c, type: 3}
   answer: Buffalo
-  audioClip: {fileID: 8300000, guid: 6746d3cfa977152499199f2b19b839ef, type: 3}
+  audioClip: {fileID: 8300000, guid: 9bb1a671f0242464c8f17c9e9c420b2b, type: 3}

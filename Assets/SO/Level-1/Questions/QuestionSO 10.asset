@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 809e4e07af0b4824291b96b8313c4022, type: 2}
   - {fileID: 11400000, guid: fa7a733a271f3ce4ca9e696cace7223f, type: 2}
   - {fileID: 11400000, guid: ef0e9f0819d5a5540a8ab47ce25d8851, type: 2}
-  question: Which animal is this?
+  question: 'The national bird of the USA. '
+  questionClip: {fileID: 8300000, guid: 86dfad46caa49c44e9b925cc05310b73, type: 3}
   correctIndex: 0

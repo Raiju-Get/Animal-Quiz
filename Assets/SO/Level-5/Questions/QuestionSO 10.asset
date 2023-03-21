@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 7fd85b7a60dcc834fb22443d4a0040c4, type: 2}
   - {fileID: 11400000, guid: 37dcd5baa23506f4b9517ea3ffcaf40a, type: 2}
   - {fileID: 11400000, guid: 2bd5d01bf6c9fa949a942156989508ae, type: 2}
-  question: Which animal is this?
+  question: Black and white striped animal.
+  questionClip: {fileID: 8300000, guid: c7b226ca1a28b1d4291ed3d7336d0aed, type: 3}
   correctIndex: 0

@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e9773d782487f0743a5989a7986212bd, type: 2}
   - {fileID: 11400000, guid: f216b94526c11d449b1e714eed7e523e, type: 2}
   - {fileID: 11400000, guid: b5afa6feb3d564d4dabdc2a527e4c70f, type: 2}
-  question: Which animal is this?
+  question: Cute animal with red fur.
+  questionClip: {fileID: 8300000, guid: c46864056ed3008428a5dc2cf18d668c, type: 3}
   correctIndex: 0

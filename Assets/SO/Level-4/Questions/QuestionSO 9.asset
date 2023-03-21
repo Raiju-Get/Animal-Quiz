@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: b5afa6feb3d564d4dabdc2a527e4c70f, type: 2}
   - {fileID: 11400000, guid: 84c339ca7bbca514790da56fe58a2ecd, type: 2}
   - {fileID: 11400000, guid: c20701f6898dd80419919ce24de7fb86, type: 2}
-  question: Which animal is this?
+  question: White fluffy animal.
+  questionClip: {fileID: 8300000, guid: 4dbdefd1e0b37c1439f25996a165c710, type: 3}
   correctIndex: 0

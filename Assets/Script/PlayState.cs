@@ -13,10 +13,7 @@ public class PlayState : GameStateMachine
 
     public override void UpdateState(GameManager gameManager)
     {
-        if (gameManager.NumOfQuestion <= 0)
-        {
-            gameManager.ChangeState(gameManager.WinStateValue);
-        }
+      
        
     }
 

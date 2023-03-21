@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 7dc73d442cf948240a97673ecc5a299b, type: 3}
   answer: Turtle
-  audioClip: {fileID: 8300000, guid: 10ee589b4c701cd47a67ce78f06264be, type: 3}
+  audioClip: {fileID: 8300000, guid: df1fc37fc5e6bbc41941394a3fd73621, type: 3}

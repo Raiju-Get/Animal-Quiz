@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 978be9e67c6c09641839010a4bd0a071, type: 2}
   - {fileID: 11400000, guid: 6eb65dc171c653f42baba14c5dea96f0, type: 2}
   - {fileID: 11400000, guid: 81e656225cba3b54383c3b6f11ede129, type: 2}
-  question: Which animal is this?
+  question: The national animal of Australia.
+  questionClip: {fileID: 8300000, guid: 8a3930897afe47e44843cf4b80b8d879, type: 3}
   correctIndex: 0

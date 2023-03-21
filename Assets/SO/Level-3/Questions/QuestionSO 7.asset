@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 6eb65dc171c653f42baba14c5dea96f0, type: 2}
   - {fileID: 11400000, guid: 81e656225cba3b54383c3b6f11ede129, type: 2}
   - {fileID: 11400000, guid: 5529d3c6ed6de5c4f8db78fe3a987d5c, type: 2}
-  question: Which animal is this?
+  question: This pretty animal roams around the sky.
+  questionClip: {fileID: 8300000, guid: e9ce000e06199554eb752e808aff1ea1, type: 3}
   correctIndex: 0

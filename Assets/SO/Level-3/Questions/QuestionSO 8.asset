@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 81e656225cba3b54383c3b6f11ede129, type: 2}
   - {fileID: 11400000, guid: 5529d3c6ed6de5c4f8db78fe3a987d5c, type: 2}
   - {fileID: 11400000, guid: 59d5431947f16c14abe7a0ba7e7cecca, type: 2}
-  question: Which animal is this?
+  question: A group of small primates.
+  questionClip: {fileID: 8300000, guid: ee4fe9ae45776d14896378188aa2530d, type: 3}
   correctIndex: 0

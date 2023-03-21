@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c20701f6898dd80419919ce24de7fb86, type: 2}
   - {fileID: 11400000, guid: d921ed20d5b03534bb9d958d28c43750, type: 2}
   - {fileID: 11400000, guid: b78e0613e568ef24b92491b2e64f583c, type: 2}
-  question: Which animal is this?
+  question: A colourful bird that repeats what you say.
+  questionClip: {fileID: 8300000, guid: dc2abc07cede05a449dd7afe5700bc9e, type: 3}
   correctIndex: 0

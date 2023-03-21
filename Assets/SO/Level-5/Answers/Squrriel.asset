@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 5984655166f2b1d4c903ca0a7ee8c38c, type: 3}
   answer: Squrriel
-  audioClip: {fileID: 8300000, guid: 985ce9c31a5088444a4995a60527f39e, type: 3}
+  audioClip: {fileID: 8300000, guid: cb49433285934c347a5e4974de9145da, type: 3}

@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 2e4658624642c6747b116d8d1e7c5eda, type: 2}
   - {fileID: 11400000, guid: 907c5f951713264459eefff99415b35d, type: 2}
   - {fileID: 11400000, guid: 292f88f5a9cc2be4b81c032319c2d1ed, type: 2}
-  question: Which animal is this?
+  question: This animal has two humps.
+  questionClip: {fileID: 8300000, guid: b236360f616342b42b35d50ff77dd4ae, type: 3}
   correctIndex: 0

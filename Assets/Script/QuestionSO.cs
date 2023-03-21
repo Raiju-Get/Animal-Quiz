@@ -11,6 +11,7 @@ public class QuestionSO : ScriptableObject
     
     [BoxGroup("Question Field")]
     public string question;
+    public AudioClip questionClip;
     [BoxGroup("Question Field")]
     [Range(0,3)]
     public int correctIndex;

@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: d8701b5e1ccd60a4f8e8697e3d034602, type: 2}
   - {fileID: 11400000, guid: 223d96415d33b754ba6ecf4f1167bfaf, type: 2}
   - {fileID: 11400000, guid: 22db9ff581d710d408e2f000e8ed6086, type: 2}
-  question: Which animal is this?
+  question: Cousin of the horse.
+  questionClip: {fileID: 8300000, guid: 2a83b8589027fc34aaa22e7bf93e5d13, type: 3}
   correctIndex: 0

@@ -15,7 +15,8 @@ MonoBehaviour:
   answerArray:
   - {fileID: 11400000, guid: 7fd85b7a60dcc834fb22443d4a0040c4, type: 2}
   - {fileID: 11400000, guid: 2bd5d01bf6c9fa949a942156989508ae, type: 2}
-  - {fileID: 11400000, guid: 2bd5d01bf6c9fa949a942156989508ae, type: 2}
   - {fileID: 11400000, guid: c4619a4998e823048a3260753bb49198, type: 2}
-  question: Which animal is this?
+  - {fileID: 11400000, guid: 9c24bd6d4d3ac3e4c8bb022d87f0c456, type: 2}
+  question: A reptile without limbs.
+  questionClip: {fileID: 8300000, guid: b51d34be0c837bd419622268b0d54d99, type: 3}
   correctIndex: 0

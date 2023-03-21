@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1a5fdca4c2fb90b4295c16a1397d47ad, type: 2}
   - {fileID: 11400000, guid: 20b6f3e9e8316b34cac6b8230229d744, type: 2}
   - {fileID: 11400000, guid: e03fdd3487f4ca94ba3a3d08ac5abad8, type: 2}
-  question: Which animal is this?
+  question: Reptiles with hard shells that protect them from predators
+  questionClip: {fileID: 8300000, guid: 97a7f119e2b624f42b073edba524486e, type: 3}
   correctIndex: 0

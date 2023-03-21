@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e03fdd3487f4ca94ba3a3d08ac5abad8, type: 2}
   - {fileID: 11400000, guid: 7fd85b7a60dcc834fb22443d4a0040c4, type: 2}
   - {fileID: 11400000, guid: 37dcd5baa23506f4b9517ea3ffcaf40a, type: 2}
-  question: Which animal is this?
+  question: Ancestors of dogs.
+  questionClip: {fileID: 8300000, guid: 48b8761329f796a4c80d23532382f0b2, type: 3}
   correctIndex: 0

@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 387eb52f3a80aa442b795b499c324008, type: 2}
   - {fileID: 11400000, guid: 809e4e07af0b4824291b96b8313c4022, type: 2}
   - {fileID: 11400000, guid: fa7a733a271f3ce4ca9e696cace7223f, type: 2}
-  question: Which animal is this?
+  question: This smart animal is known for its intelligence.
+  questionClip: {fileID: 8300000, guid: cee5d6d6273b99048a9300c9550b17c6, type: 3}
   correctIndex: 0

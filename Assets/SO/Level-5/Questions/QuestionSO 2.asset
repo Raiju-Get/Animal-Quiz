@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 2bd5d01bf6c9fa949a942156989508ae, type: 2}
   - {fileID: 11400000, guid: c4619a4998e823048a3260753bb49198, type: 2}
   - {fileID: 11400000, guid: 8ab83b0696aa1094e90138f89bd167c2, type: 2}
-  question: Which animal is this?
+  question: Cute small bird.
+  questionClip: {fileID: 8300000, guid: a43c23ab02b1c264f80d2fb3396935f1, type: 3}
   correctIndex: 0

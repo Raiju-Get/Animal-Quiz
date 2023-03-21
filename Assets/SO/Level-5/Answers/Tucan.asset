@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   image: {fileID: 21300000, guid: 1bb2c31b03a47a14baabefd1376255a9, type: 3}
   answer: Tucan
-  audioClip: {fileID: 8300000, guid: 9de239fe5ce55da48bc435f5b6efdd5c, type: 3}
+  audioClip: {fileID: 8300000, guid: 4d9fdd4ad00d84744bc92c24a932f7d6, type: 3}

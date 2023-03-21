@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1d1c6789a3db29345a0bcf293acdcd3b, type: 2}
   - {fileID: 11400000, guid: 2e8e568a8fef07547bd5fa6b56d7b8f1, type: 2}
   - {fileID: 11400000, guid: 387eb52f3a80aa442b795b499c324008, type: 2}
-  question: Which animal is this?
+  question: This Bovine gives milk to humans.
+  questionClip: {fileID: 8300000, guid: 1f9ad521a97d23a48a9c6b9a156e4d71, type: 3}
   correctIndex: 0

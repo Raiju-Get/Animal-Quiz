@@ -17,5 +17,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 907c5f951713264459eefff99415b35d, type: 2}
   - {fileID: 11400000, guid: 292f88f5a9cc2be4b81c032319c2d1ed, type: 2}
   - {fileID: 11400000, guid: 1d1c6789a3db29345a0bcf293acdcd3b, type: 2}
-  question: Which animal is this?
+  question: This reptile changes colours.
+  questionClip: {fileID: 8300000, guid: 0a0948f1067d2294592a395c25033e39, type: 3}
   correctIndex: 0
